@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+	<ITEM>
+		<TITLE>TITLE01</TITLE>
+		<CATEGORY>CAT01</CATEGORY>
+		<IMAGE url="https://raw.githubusercontent.com/joenbergen/files/master/img/300_200.jpg"/>
+		<IMAGESIZE></IMAGESIZE>
+	</ITEM>
+	<ITEM>
+		<TITLE>TITLE02</TITLE>
+		<CATEGORY>CAT02</CATEGORY>
+		<IMAGE url="https://raw.githubusercontent.com/joenbergen/files/master/img/900_600.jpg"/>
+		<IMAGESIZE></IMAGESIZE>
+	</ITEM>
+	<ITEM>
+		<TITLE>TITLE03</TITLE>
+		<CATEGORY>CAT03</CATEGORY>
+		<IMAGE url="https://raw.githubusercontent.com/joenbergen/files/master/img/150_100.jpg"/>
+		<IMAGESIZE></IMAGESIZE>
+	</ITEM>
+	<ITEM>
+		<TITLE>TITLE04</TITLE>
+		<CATEGORY>CAT04</CATEGORY>
+		<IMAGE url="https://raw.githubusercontent.com/joenbergen/files/master/img/1200_800.jpg"/>
+		<IMAGESIZE></IMAGESIZE>
+	</ITEM>
+	<ITEM>
+		<TITLE>TITLE05</TITLE>
+		<CATEGORY>CAT05</CATEGORY>
+		<IMAGE url="https://raw.githubusercontent.com/joenbergen/files/master/img/600_400.jpg"/>
+		<IMAGESIZE></IMAGESIZE>
+	</ITEM>
+</CATALOG>
