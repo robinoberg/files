@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <p id="01" language="SE" url="http://www.spotify.se" />
+  <p id="02" language="SE" url="http://www.spotify.se" />
+  <p id="03" language="SE" url="http://www.spotify.se" />
+  <p id="04" language="NO" url="http://www.spotify.no" />
+  <p id="05" language="NO" url="http://www.spotify.no" />
+  <p id="06" language="NO" url="http://www.spotify.no" />
+  <p id="07" language="DE" url="http://www.google.de" />
+  <p id="08" language="DE" url="http://www.google.de" />
+  <p id="09" language="DE" url="http://www.google.de" />
+  <p id="10" language="BR" url="http://www.google.br" />
+  <p id="11" language="BR" url="http://www.google.br" />
+  <p id="12" language="BR" url="http://www.google.br" />
+  <p id="13" language="FR" url="http://www.apple.com" />
+  <p id="14" language="FR" url="http://www.apple.com" />
+  <p id="15" language="FR" url="http://www.apple.com" />
+  <p id="16" language="ES" url="http://www.microsoft.com" />
+  <p id="17" language="ES" url="http://www.microsoft.com" />
+  <p id="18" language="ES" url="http://www.microsoft.com" />
+  <p id="19" language="CA" url="http://www.ubisoft.com" />
+  <p id="20" language="CA" url="http://www.ubisoft.com" />
+  <p id="21" language="CA" url="http://www.ubisoft.com" />
+  <p id="22" language="US" url="http://www.google.com" />
+  <p id="23" language="US" url="http://www.google.com" />
+  <p id="24" language="US" url="http://www.google.com" />
+</languages>
